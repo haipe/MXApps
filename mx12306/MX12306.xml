@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<version val="1"/>
+	<File name="node.dll" debug="0" compress="0">
+		<Version val="20191213"/>
+		<Display val="node.dll"/>
+		<Url val="https://gitee.com/moooxin/apps/attach_files/316622/download"/>
+		<MD5 val="fee0a7bc47a08c807895bd2813d040a4"/>
+		<SHA256 val="81c7c0173e416ad8c0f2955b875b96650482053d10e531290fa2f2cc29d2c49f"/>
+		<Depend>
+		</Depend>
+	</File>
+
+</root>
