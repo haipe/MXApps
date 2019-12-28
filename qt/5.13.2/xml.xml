@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<root>
+    <Version>2019-12-27 18:00:00</Version>
+    <File val="audio" compress="true" version="2019-12-27 18:00:00">
+        <MD5>04bf8121a616f1355ad8a03a096fd36b</MD5>
+    </File>
+    <File val="bearer" compress="true" version="2019-12-27 18:00:00">
+        <MD5>db4f002e21785e31508bba762550678d</MD5>
+    </File>
+    <File val="canbus" compress="true" version="2019-12-27 18:00:00">
+        <MD5>84072905b9648ec24c03a00070d8ae29</MD5>
+    </File>
+    <File val="D3Dcompiler_47.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>d0605a530afec59b761f5f8a743bc8fe</MD5>
+    </File>
+    <File val="designer" compress="true" version="2019-12-27 18:00:00">
+        <MD5>f1ef8ca9ecac06ee9d48385be4007de4</MD5>
+    </File>
+    <File val="gamepads" compress="true" version="2019-12-27 18:00:00">
+        <MD5>f866a0c7aad0c51052def49b7497a5d5</MD5>
+    </File>
+    <File val="generic" compress="true" version="2019-12-27 18:00:00">
+        <MD5>35cba192d318078326d54bd4a271eb7f</MD5>
+    </File>
+    <File val="geometryloaders" compress="true" version="2019-12-27 18:00:00">
+        <MD5>a241c2bbbcb87359848bbdf47f22292a</MD5>
+    </File>
+    <File val="geoservices" compress="true" version="2019-12-27 18:00:00">
+        <MD5>353ebd5718a005bdd3082a70bd8a2848</MD5>
+    </File>
+    <File val="iconengines" compress="true" version="2019-12-27 18:00:00">
+        <MD5>1996a295b01eb46ccc99827cdfa025bb</MD5>
+    </File>
+    <File val="imageformats" compress="true" version="2019-12-27 18:00:00">
+        <MD5>44b5dec178356f7f498791af798a6573</MD5>
+    </File>
+    <File val="libEGL.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>71bfe0d3e6bdb1becf71165cbf0a575a</MD5>
+    </File>
+    <File val="libGLESV2.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>82112737bc208558d79249ea51cdc70c</MD5>
+    </File>
+    <File val="mediaservice" compress="true" version="2019-12-27 18:00:00">
+        <MD5>606b9bed40f8758c1c2c0ff346ac8e2e</MD5>
+    </File>
+    <File val="opengl32sw.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>a6f6c8595446962c8f28ff5d4ff17f68</MD5>
+    </File>
+    <File val="platforms" compress="true" version="2019-12-27 18:00:00">
+        <MD5>e763ca4be72fbf6ca0dc7500fb636774</MD5>
+    </File>
+    <File val="platformthemes" compress="true" version="2019-12-27 18:00:00">
+        <MD5>0e760a3c0f25aff062e095e4ffc7f35c</MD5>
+    </File>
+    <File val="playlistformats" compress="true" version="2019-12-27 18:00:00">
+        <MD5>5389eee4ff4bd86ef1cefcebf7bc606c</MD5>
+    </File>
+    <File val="position" compress="true" version="2019-12-27 18:00:00">
+        <MD5>5ef29ac562420991b52bba0a33551857</MD5>
+    </File>
+    <File val="printsupport" compress="true" version="2019-12-27 18:00:00">
+        <MD5>811aea62bd002371159411156fb1c1e0</MD5>
+    </File>
+    <File val="qmltooling" compress="true" version="2019-12-27 18:00:00">
+        <MD5>9685ba54db84612e911285e2e2dfcc9a</MD5>
+    </File>
+    <File val="Qt5Core.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>9e05b16e83907eb3db9b2b00207c16e2</MD5>
+    </File>
+    <File val="Qt5Gui.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>b864a66921cc291e33b29e6dc47dbab1</MD5>
+    </File>
+    <File val="Qt5Multimedia.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>e257a93ad56e2adc9f05ac0dd07d2f87</MD5>
+    </File>
+    <File val="Qt5Network.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>add6e7103e2d5b57ca944e71837f94a4</MD5>
+    </File>
+    <File val="Qt5Svg.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>b54e3304451f144083ae41330e685726</MD5>
+    </File>
+    <File val="Qt5Widgets.dll" compress="true" version="2019-12-27 18:00:00">
+        <MD5>e6d1b5344abb29beabc079b1b41e24a4</MD5>
+    </File>
+    <File val="renderplugins" compress="true" version="2019-12-27 18:00:00">
+        <MD5>a5ceb1a9548c9917e8a763a657264306</MD5>
+    </File>
+    <File val="scenegraph" compress="true" version="2019-12-27 18:00:00">
+        <MD5>2e46177a5644f570bc3ba73855c96d74</MD5>
+    </File>
+    <File val="sceneparsers" compress="true" version="2019-12-27 18:00:00">
+        <MD5>40661dc6eac58c37561c38f0b8735ad4</MD5>
+    </File>
+    <File val="sensorgestures" compress="true" version="2019-12-27 18:00:00">
+        <MD5>68e7a65ae020a4064e1d11f45bdcfe9a</MD5>
+    </File>
+    <File val="sensors" compress="true" version="2019-12-27 18:00:00">
+        <MD5>461dcccfc17cb6314599c16a52efa198</MD5>
+    </File>
+    <File val="sqldrivers" compress="true" version="2019-12-27 18:00:00">
+        <MD5>d64717a91334c59d15d2f72d148fe86e</MD5>
+    </File>
+    <File val="styles" compress="true" version="2019-12-27 18:00:00">
+        <MD5>e6b88ec6e78d62b4dda8b0d0dec7257f</MD5>
+    </File>
+    <File val="texttospeech" compress="true" version="2019-12-27 18:00:00">
+        <MD5>fb5f269ac216d17315cad98168a6fd02</MD5>
+    </File>
+    <File val="translations" compress="true" version="2019-12-27 18:00:00">
+        <MD5>90708e7524be6fa55d69f1704e3503bd</MD5>
+    </File>
+    <File val="webview" compress="true" version="2019-12-27 18:00:00">
+        <MD5>40fc178c40164c8bb1e277bb53ed4d80</MD5>
+    </File>
+</root>
