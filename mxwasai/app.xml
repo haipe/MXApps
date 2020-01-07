@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<Host></Host>
-	<App version="1.0.0.202001071800" name="MXWasai.exe">
+	<App version="1.0.0.202001071800" name="MXWasai.exe" issuance="beta">
 		<File library="miniblink" version="201912131800" md5="fee0a7bc47a08c807895bd2813d040a4" compress="true">node.dll</File>
 		<File library="qt" version="5.13.2" md5="d0605a530afec59b761f5f8a743bc8fe" compress="true">D3Dcompiler_47.dll</File>
 		<File library="qt" version="5.13.2" md5="44b5dec178356f7f498791af798a6573" compress="true">imageformats</File>
