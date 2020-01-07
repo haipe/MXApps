@@ -2,19 +2,19 @@
 <root>
 	<Host></Host>
 	<App version="1.0.0.202001071800" name="MXWasai.exe">
-		<File library="miniblink" version="201912131800" md5="fee0a7bc47a08c807895bd2813d040a4">node.dll</File>
-		<File library="qt" version="5.13.2" md5="d0605a530afec59b761f5f8a743bc8fe">D3Dcompiler_47.dll</File>
-		<File library="qt" version="5.13.2" md5="44b5dec178356f7f498791af798a6573">imageformats</File>
-		<File library="qt" version="5.13.2" md5="82112737bc208558d79249ea51cdc70c">libGLESV2.dll</File>
-		<File library="qt" version="5.13.2" md5="a6f6c8595446962c8f28ff5d4ff17f68">opengl32sw.dll</File>
-		<File library="qt" version="5.13.2" md5="9e05b16e83907eb3db9b2b00207c16e2">Qt5Core.dll</File>
-		<File library="qt" version="5.13.2" md5="b54e3304451f144083ae41330e685726">Qt5Svg.dll</File>
-		<File library="qt" version="5.13.2" md5="e6b88ec6e78d62b4dda8b0d0dec7257f">styles</File>
-		<File library="qt" version="5.13.2" md5="1996a295b01eb46ccc99827cdfa025bb">iconengines</File>
-		<File library="qt" version="5.13.2" md5="71bfe0d3e6bdb1becf71165cbf0a575a">libEGL.dll</File>
-		<File library="qt" version="5.13.2" md5="e763ca4be72fbf6ca0dc7500fb636774">platforms</File>
-		<File library="qt" version="5.13.2" md5="b864a66921cc291e33b29e6dc47dbab1">Qt5Gui.dll</File>
-		<File library="qt" version="5.13.2" md5="e6d1b5344abb29beabc079b1b41e24a4">Qt5Widgets.dll</File>
-		<File library="qt" version="5.13.2" md5="90708e7524be6fa55d69f1704e3503bd">translations</File>
+		<File library="miniblink" version="201912131800" md5="fee0a7bc47a08c807895bd2813d040a4" compress="true">node.dll</File>
+		<File library="qt" version="5.13.2" md5="d0605a530afec59b761f5f8a743bc8fe" compress="true">D3Dcompiler_47.dll</File>
+		<File library="qt" version="5.13.2" md5="44b5dec178356f7f498791af798a6573" compress="true">imageformats</File>
+		<File library="qt" version="5.13.2" md5="82112737bc208558d79249ea51cdc70c" compress="true">libGLESV2.dll</File>
+		<File library="qt" version="5.13.2" md5="a6f6c8595446962c8f28ff5d4ff17f68" compress="true">opengl32sw.dll</File>
+		<File library="qt" version="5.13.2" md5="9e05b16e83907eb3db9b2b00207c16e2" compress="true">Qt5Core.dll</File>
+		<File library="qt" version="5.13.2" md5="b54e3304451f144083ae41330e685726" compress="true">Qt5Svg.dll</File>
+		<File library="qt" version="5.13.2" md5="e6b88ec6e78d62b4dda8b0d0dec7257f" compress="true">styles</File>
+		<File library="qt" version="5.13.2" md5="1996a295b01eb46ccc99827cdfa025bb" compress="true">iconengines</File>
+		<File library="qt" version="5.13.2" md5="71bfe0d3e6bdb1becf71165cbf0a575a" compress="true">libEGL.dll</File>
+		<File library="qt" version="5.13.2" md5="e763ca4be72fbf6ca0dc7500fb636774" compress="true">platforms</File>
+		<File library="qt" version="5.13.2" md5="b864a66921cc291e33b29e6dc47dbab1" compress="true">Qt5Gui.dll</File>
+		<File library="qt" version="5.13.2" md5="e6d1b5344abb29beabc079b1b41e24a4" compress="true">Qt5Widgets.dll</File>
+		<File library="qt" version="5.13.2" md5="90708e7524be6fa55d69f1704e3503bd" compress="true">translations</File>
 	</App>
 </root>
