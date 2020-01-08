@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<Host></Host>
-	<App version="1.0.0.202001071800" name="MXDesktopBook.exe" issuance="beta">
+	<App version="1.0.0.202001071800" name="MXDesktopBook.exe" issuance="release">
 		<File library="libcurl" version="7.45.0" md5="">libcurl.dll</File>
 		<File library="mxwebrequest" version="202001071800" md5="">MXWebRequest.dll</File>
+	</App>
+	<App version="1.0.0.1.0.0.202001081800" name="MXDesktopBook.exe" issuance="beta">
+		<File library="libcurl" version="7.45.0" md5="">libcurl.dll</File>
+		<File library="mxwebrequest" version="202001081800" md5="">MXWebRequest.dll</File>
 	</App>
 </root>
